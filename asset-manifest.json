@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/ToDoListReact/static/css/main.48802495.chunk.css",
+    "main.js": "/ToDoListReact/static/js/main.af354169.chunk.js",
+    "main.js.map": "/ToDoListReact/static/js/main.af354169.chunk.js.map",
+    "runtime-main.js": "/ToDoListReact/static/js/runtime-main.229ef5a8.js",
+    "runtime-main.js.map": "/ToDoListReact/static/js/runtime-main.229ef5a8.js.map",
+    "static/js/2.6e518c4d.chunk.js": "/ToDoListReact/static/js/2.6e518c4d.chunk.js",
+    "static/js/2.6e518c4d.chunk.js.map": "/ToDoListReact/static/js/2.6e518c4d.chunk.js.map",
+    "index.html": "/ToDoListReact/index.html",
+    "precache-manifest.7cb76b2c16b3a7bda18e83105e40300e.js": "/ToDoListReact/precache-manifest.7cb76b2c16b3a7bda18e83105e40300e.js",
+    "service-worker.js": "/ToDoListReact/service-worker.js",
+    "static/css/main.48802495.chunk.css.map": "/ToDoListReact/static/css/main.48802495.chunk.css.map",
+    "static/media/app.module.css": "/ToDoListReact/static/media/deleteallhover.061529df.svg",
+    "static/media/AddItem.module.css": "/ToDoListReact/static/media/delete.be93079a.svg"
+  }
+}
